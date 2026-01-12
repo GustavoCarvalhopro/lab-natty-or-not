@@ -22,22 +22,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
+📒 Descrição
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi criada uma animação a partir da minha foto de perfil, com a inclusão de um texto em inglês descrevendo meu processo de transição de carreira.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🤖 Tecnologias Utilizadas
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+ChatGPT – Criação do roteiro/script
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+VisionStory – Animação da foto e geração do vídeo
 
+🧐 Processo de Criação
+
+A foto foi enviada para o VisionStory para gerar a animação. Em seguida, elaborei o roteiro no ChatGPT, destacando minhas hard skills e minha transição de carreira. Por fim, o vídeo foi gerado utilizando inteligência artificial.
+
+🚀 Resultados
+
+O resultado foi satisfatório. No entanto, por não ter sido possível utilizar minha própria voz para a narração, senti uma pequena limitação nesse aspecto.
+
+💭 Reflexão
+
+O resultado final superou as expectativas. Pessoas que me conhecem perceberam que não se tratava de um vídeo real principalmente pela voz, mas, no geral, os demais elementos entregaram um resultado bastante satisfatório.
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
